@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -82,36 +83,36 @@
 <header>
     <div style="font-size: 65px;">🍔</div>
     <h1>Prof Meal Deal</h1>
-    <p>Affordable and Convenient Food for Young People
+    <p>Affordable and Convenient Food for Young People</p>
 </header>
 
-    <main>
-        <section>
-            <h2>About Us</h2>
-            <p>
-                Prof Meal Deal makes eating easy and affordable for young people.
-                We offer tasty, convenient meals that fit your budget and busy lifestyle.
-            </p>
-        </section>
+<main>
+    <section>
+        <h2>About Us</h2>
+        <p>
+            Prof Meal Deal makes eating easy and affordable for young people.
+            We offer tasty, convenient meals that fit your budget and busy lifestyle.
+        </p>
+    </section>
 
-        <section>
-            <h2>What We Offer</h2>
-            <ul>
-                <li>Affordable daily meal deals</li>
-                <li>Fresh and tasty food options</li>
-                <li>Quick and convenient takeaway meals</li>
-            </ul>
-        </section>
+    <section>
+        <h2>What We Offer</h2>
+        <ul>
+            <li>Affordable daily meal deals</li>
+            <li>Fresh and tasty food options</li>
+            <li>Quick and convenient takeaway meals</li>
+        </ul>
+    </section>
 
-        <section>
-            <h2>Contact Us</h2>
-            <p>Email: <a href="mailto:info@profmealdeal.com">info@profmealdeal.com</a></p>
-        </section>
-    </main>
+    <section>
+        <h2>Contact Us</h2>
+        <p>Email: <a href="mailto:info@profmealdeal.com">info@profmealdeal.com</a></p>
+    </section>
+</main>
 
-    <footer>
-        <p>&copy; 2026 Prof Meal Deal. All rights reserved.</p>
-    </footer>
+<footer>
+    <p>&copy; 2026 Prof Meal Deal. All rights reserved.</p>
+</footer>
 
 </body>
 </html>
